@@ -1,18 +1,20 @@
-<h1 align="left">Welcome to my github :)</h1>
+# Hi there, I'm Ana Rita
 
-###
+Welcome to my GitHub profile. I'm a software engineering student at **42 School** in Portugal, focused on learning computer science fundamentals and building projects from the ground up.
 
-<p align="left">My name is Ana Rita and I'm a programming student in 42 school currently learning C and other foundational technologies, from Portugal.</p>
+## About Me
 
-###
+- Based in Portugal
+- Currently studying C programming and low-level systems at 42 School
+- Completed courses in Python and Cybersecurity
+- Passionate about algorithms, data structures, and understanding how systems work
+- Learning through hands-on, project-based education
 
-<h2 align="left">About me</h2>
+## Current Focus
 
-###
-
-<p align="left">✨ Creating bugs since before I even knew how to fix them<br>📚 I'm currently learning C and how not to break everything<br>🎯 Goals: Write code that works on the first try (one day…)</p>
-
-###
+- Deepening understanding of operating systems and memory management
+- Building complex systems in C
+- Advancing through the 42 curriculum
 
 <h2 align="left">I code with</h2>
 
