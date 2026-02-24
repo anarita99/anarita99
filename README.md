@@ -7,7 +7,6 @@ Welcome to my GitHub profile. I'm a software engineering student at **42 School*
 - Based in Portugal
 - Currently studying C programming and low-level systems at 42 School
 - Completed courses in Python and Cybersecurity
-- Passionate about algorithms, data structures, and understanding how systems work
 - Learning through hands-on, project-based education
 
 ## Current Focus
